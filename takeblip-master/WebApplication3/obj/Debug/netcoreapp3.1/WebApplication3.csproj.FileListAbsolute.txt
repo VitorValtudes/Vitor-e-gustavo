@@ -1,0 +1,86 @@
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\vitor\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\vitor\OneDrive\Documentos\GithubRepositorio\WebApplication3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+C:\Users\vitor\Downloads\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+D:\TRABALHAR\takeblip-master (1)\takeblip-master\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
